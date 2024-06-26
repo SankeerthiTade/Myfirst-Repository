@@ -1,1 +1,1 @@
-#  It provides essential information about the project, such as how to install and use it.
+#It gives key details about the project, like installation and usage instructions.
