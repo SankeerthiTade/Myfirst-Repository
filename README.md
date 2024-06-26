@@ -1,2 +1,1 @@
-# Myfirst-Repository
-README.md serves as an introduction and guide to the project
+#  It provides essential information about the project, such as how to install and use it.
